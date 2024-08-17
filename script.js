@@ -1,3 +1,5 @@
+// Le fichier script.js gère la logique du jeu, y compris les tours des joueurs, la vérification du gagnant, et la réinitialisation du jeu.
+
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
